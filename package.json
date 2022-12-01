@@ -106,6 +106,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "jasonswap-sdk": "^1.0.2"
   }
 }
